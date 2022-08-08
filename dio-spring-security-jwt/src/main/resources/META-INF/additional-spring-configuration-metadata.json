@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "security.config.expiration",
+  "type": "java.lang.String",
+  "description": "A description for 'security.config.expiration'"
+}]}
